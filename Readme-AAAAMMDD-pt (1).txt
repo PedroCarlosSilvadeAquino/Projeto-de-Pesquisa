@@ -20,21 +20,21 @@ DOI do Conjunto de Dados: <o DOI estará disponível após a submissão do conju
 <forneça pelo menos dois contatos>
 Informações do Autor/Investigador Principal
 Nome: Maria Simone Gomes de Lima
-ORCID:
+ORCID: 0009-0007-8695-9210
 Instituição: Universidade Federal de Pernambuco
-Email: 
+Email: maria.simone@ufpe.br 
 
 Informações do Autor/Co-investigador Associado
 Nome: Pedro Carlos Silva de Aquino
-ORCID: https://orcid.org/0000-0001-5575-6591
+ORCID: 0000-0001-5575-6591
 Instituição: Secretaria Municipal de Saúde de Jaboatão dos Guararapes
 Email: pedrocarlos140698@gmail.com
 
 Informações do Autor/Contato Alternativo
-Nome:
-ORCID:
-Instituição:
-Email:
+Nome: Dinalva Lacerda Cabral
+ORCID: 0000-0002-6570-9710
+Instituição: Universidade Federal de Pernambuco
+Email: dinalva.lacerda@ufpe.br
 
 Data de coleta dos dados: <forneça uma data única, intervalo ou data aproximada; formato sugerido AAAA-MM-DD>
 
