@@ -8,7 +8,7 @@ Ele é o guia para que as pessoas que baixarem seu conjunto de dados saibam do q
 
 =======================
 
-Este arquivo readme foi gerado em [AAAA-MM-DD] por [NOME]
+Este arquivo readme foi gerado em [2025-05-09] por [Pedro Carlos Silva de Aquino e Maria Simone Gomes de Lima]
 
 ======================
 
@@ -19,16 +19,16 @@ DOI do Conjunto de Dados: <o DOI estará disponível após a submissão do conju
 
 <forneça pelo menos dois contatos>
 Informações do Autor/Investigador Principal
-Nome:
+Nome: Maria Simone Gomes de Lima
 ORCID:
-Instituição:
-Email:
+Instituição: Universidade Federal de Pernambuco
+Email: 
 
 Informações do Autor/Co-investigador Associado
-Nome:
-ORCID:
-Instituição:
-Email:
+Nome: Pedro Carlos Silva de Aquino
+ORCID: https://orcid.org/0000-0001-5575-6591
+Instituição: Secretaria Municipal de Saúde de Jaboatão dos Guararapes
+Email: pedrocarlos140698@gmail.com
 
 Informações do Autor/Contato Alternativo
 Nome:
