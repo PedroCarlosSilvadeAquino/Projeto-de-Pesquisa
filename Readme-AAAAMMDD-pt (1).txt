@@ -1,11 +1,3 @@
-INSTRUÇÕES <delete a seção antes de submeter o conjunto>
-
-O arquivo README é obrigatório para todos os conjuntos de dados depositados no SciELO Data.
-Ele é o guia para que as pessoas que baixarem seu conjunto de dados saibam do que se tratam os arquivos, como foram coletados, seu contexto e possíveis tratamentos sofridos.
-
-<o texto de ajuda entre colchetes angulares deve ser excluído antes de finalizar seu documento>
-<[o texto entre colchetes deve ser alterado para seu conjunto de dados específico]>
-
 =======================
 
 Este arquivo readme foi gerado em [2025-05-09] por [Pedro Carlos Silva de Aquino]
